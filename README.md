@@ -60,9 +60,9 @@ Write a program in a Java – Spring boot with test cases such that given a bill
 **UML diagram**
 ----------------
 
-![image](https://github.com/user-attachments/assets/cd17e17b-1eaa-4a2b-ad2e-bf35713ef49d)
+![image](https://github.com/user-attachments/assets/23721f1a-0df6-4242-9934-8bfcd1a4b58b)
 
-![image](https://github.com/user-attachments/assets/e87d3432-3b57-4536-965e-35ecc49aea88)
+![image](https://github.com/user-attachments/assets/4f2e70ce-d4eb-446b-a0c9-bd9310c3c8ba)
 
 
 **Solution Approach**

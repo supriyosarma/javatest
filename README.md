@@ -62,6 +62,8 @@ Write a program in a Java – Spring boot with test cases such that given a bill
 
 ![image](https://github.com/user-attachments/assets/7d204fbd-2132-42fa-97e0-9055feeea554)
 
+![image](https://github.com/user-attachments/assets/e87d3432-3b57-4536-965e-35ecc49aea88)
+
 
 **Solution Approach**
 ---------------------
